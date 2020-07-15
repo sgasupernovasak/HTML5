@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+#c_web{
+	background-color: #18A063;
+}
+
+#n_pricipal{
+	background-color: #387B72;
+}
+
+#b_lateral{
+	background-color: #2AFF00;
+	float: left;
+	height: 1067px;
+}
+#select{
+	background-color: #FF00AE;
+	margin-left: 200px;
+	padding-left: 30px;
+}
+
+#pieDePagina{
+	background-color: #DAFF0A;
+	clear: both;
+	margin-top: 50px;
+}
+
+li{
+	background-color:#08EAFD;
+	display: inline;
+}
